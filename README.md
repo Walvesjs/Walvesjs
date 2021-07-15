@@ -1,4 +1,5 @@
-
+## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+🎉 Tekrardan herkese selam!
 
 <!---
 wizzdev0/wizzdev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
