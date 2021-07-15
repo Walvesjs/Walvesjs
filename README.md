@@ -1,16 +1,11 @@
-### Hi there 👋
+- 👋 Hi, I’m @walves.js
+- 👀 I’m interested in Node.JS.
+- 🌱 I’m currently learning discord.js
+- 💞️ I’m looking to collaborate on with you
 
-<!--
-**Walvesjs/Walvesjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+wizzdev0/wizzdev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/734545539458269368
+                            )](https://discord.com/users/734545539458269368)
