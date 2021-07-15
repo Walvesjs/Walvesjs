@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @walves.js
-- 👀 I’m interested in Node.JS.
-- 🌱 I’m currently learning discord.js
-- 💞️ I’m looking to collaborate on with you
+
 
 <!---
 wizzdev0/wizzdev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
