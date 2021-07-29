@@ -1,7 +1,7 @@
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 [![barbecue](https://cdn.discordapp.com/attachments/854084764683468800/869761392868220938/walvesgithub.png)](https://github.com/Walvesjs/)
 <p align="center">
-   <a href="https://discord.com/users/734545539458269368" target"blank_"><img src="https://img.shields.io/badge/kayra%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/734545539458269368" target"blank_"><img src="https://img.shields.io/badge/walves%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/31eegdwmo455tqoshr3ab43d46ju?si=7e72560dd4e94636" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
    <div align="center">
