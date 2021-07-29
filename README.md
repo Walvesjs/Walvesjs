@@ -6,6 +6,7 @@
 <h3>Links</h3>
    <a href="https://discord.com/users/734545539458269368" target"blank_"><img src="https://img.shields.io/badge/walves%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=5662f6"></a>
    <a href="https://open.spotify.com/user/31eegdwmo455tqoshr3ab43d46ju?si=7e72560dd4e94636" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=brightgreen"></a>
+      <a href="https://discord.gg/WDxS5Us7TP" target"blank_"><img src="https://img.shields.io/badge/Botclub.net%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=5662f6"></a>
 
    <div align="center">
 <h3>Languages and Tools   </h3>
@@ -16,7 +17,7 @@
 </div>
    <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Walvesjs&label=Ziyaretçi%20Sayısı&color=552b75" alt="Walvesjs"  />
+<img src="https://komarev.com/ghpvc/?username=Walvesjs&label=Ziyaretçi%20Sayısı&color=9c84ef" alt="Walvesjs"  />
  </div>
 
 <div align="center">
