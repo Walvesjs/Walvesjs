@@ -1,5 +1,5 @@
 ## Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-[![barbecue](https://i.hizliresim.com/tfentrr.png)](https://github.com/Walvesjs/)
+[![barbecue](https://i.hizliresim.com/ee1l0if.png)
 <p align="center">
    
    <div align="center">
